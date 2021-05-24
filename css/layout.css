@@ -625,12 +625,13 @@ body {
  }
  
  .popup-close {
-   float: right;
-   background: #00a78e !important;
-   color: white;
-   font-size: 35px;
-   cursor: pointer;
-   padding: 1px;
+  float: right;
+  background: grey;
+  color: white;
+  font-size: 26px;
+  cursor: pointer;
+  border-radius: 20px;
+  padding: 3px 7px 4px 7px;
  }
  
  .slick-background-img {
